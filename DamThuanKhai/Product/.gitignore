@@ -1,0 +1,14 @@
+.idea
+*.class
+
+.vscode/
+*.iml
+
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+*.jar
+
+manifest.txt
+/bin
